@@ -1,0 +1,23 @@
+cd : changes directory
+
+ls : shows everything inside of a directory
+
+rm -rf (file name) :deletes anything
+
+touch (name) : makes a file
+
+ls -1 | wc -1 : counts the number of files in a directory 
+
+mkdir : makes a directory
+
+ls -l | grep (name/keyword/extension) : filters through files for the giving keyword
+
+git clone : clones a github project/repo
+
+git add
+
+git commit -m "message"
+
+git push
+
+git status
