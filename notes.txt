@@ -14,10 +14,10 @@ ls -l | grep (name/keyword/extension) : filters through files for the giving key
 
 git clone : clones a github project/repo
 
-git add
+git add : adds them to the bus" .
 
 git commit -m "message"
 
-git push
+git push : sends the code to github
 
-git status
+git status : shows the status of your code being sended to github
