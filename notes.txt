@@ -41,4 +41,17 @@ Description: What I learned about Java script
 
 There are also space punctuation and capital and lowercase letters and words
 You can also do mathematical equations
+___________________________________________________________________________________________________________________________________
+Date: Sunday July 20
+Description : Javascript notes for July 20
 
+a period (the dot operator)
+the name of the method
+opening and closing parentheses
+
+This process of appending one string to another is called concatenation.
+ Notice in the third example we had to make sure to include a space at the end of the first string. 
+ The computer will join the strings exactly, so we needed to make sure to include the space we wanted between the two strings.
+
+ In addition to console, there are other objects built into JavaScript.
+  Down the line, you’ll build your own objects, but for now these “built-in” objects are full of useful functionality.
